@@ -22,17 +22,16 @@ I’m an aspiring Data Analyst focused on turning raw data into meaningful busin
 
 ---
 
-## 📜 🏆 Certifications
+## 🏆 Certificates
 
-- Here’s a list of my professional and technical certificates:
+Here’s a list of my professional and technical certificates:
 
-| 🎓 Certificate | 🏢 Issued By | 📅 Year |
-|----------------|--------------|---------|
-| 🟦 Intro to Microsoft Excel | SimpliLearn SkillUp | 2025 |
-| 🟦 Intro to SQL | SimpliLearn SkillUp | 2026 |
-| 🟦 SQL | Mimo | 2026 |
-| 🟦 Power for Beginner | SimpliLearn SkillUp | 2026 |
-
+| Certificate | Issued By | Year |
+|-------------|-----------|------|
+| 📊 **Intro to Microsoft Excel** | SimpliLearn SkillUp | 2025 |
+| 💾 **Intro to SQL** | SimpliLearn SkillUp | 2026 |
+| 🖥️ **SQL** | Mimo | 2026 |
+| ⚡ **Power for Beginner** | SimpliLearn SkillUp | 2026 |
 ---
 
 ## 📫 Contact Me
