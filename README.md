@@ -21,14 +21,14 @@ I’m an aspiring Data Analyst focused on turning raw data into meaningful busin
 ### 1. Olist E-Commerce Data Analysis (SQL + Power BI)
 End-to-end data analysis project using PostgreSQL and Power BI, focusing on customer behavior, revenue trends, and regional performance.
 
-🔗 [View Project](olist-ecommerce-sql-powerbi-analysis)
+🔗 [View Project](https://github.com/Godstime-Analytics/olist-ecommerce-sql-powerbi-analysis)
 
 ---
 
 ### 2. E-Commerce Sales Analysis (SQL + Excel)
 Beginner-level data analysis project showcasing foundational SQL skills, data exploration, and basic insights.
 
-🔗 [View Project](ecommerce-sales-analysis-sql)
+🔗 [View Project](https://github.com/Godstime-Analytics/ecommerce-sales-analysis-sql)
 
 ---
 
